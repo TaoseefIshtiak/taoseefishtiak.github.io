@@ -1,0 +1,10 @@
+I have pursued my Bs.C. in Computer Science and Engineering from the passion of exploring this field. With the aim I have the focus to engage in research 
+in the field of Data Science and Machine Learning. My undergraduate capstone and thesis project is based on a combined application of Computer Vision and
+Data Mining techniques to detect the analysis of road condition of Bangladesh. I have worked as Research Assistant from 2017-2019 in the Department of Electrical and Computer Engineering
+in a project of Online Sewage Treament Plant Monitoring. I worked as a Web and Back-end developer and 
+applied data mining techniques on the acquired data. After that I have joined in a research project funded by the Government of People's Republic of Bangladesh under the 
+supervision of Department of Environmental Science Management of North South University for the Coastal Climatic Data Collection and Management.
+I worked as a full-stack application developer and for application of machine learning techniques on the acquried data. I have been appointed as 
+an undergraduate Teaching Assistant in the Department of Electrical and Computer Engineering of North South University for the courses of
+"Data Structure and Algorithms", "Java Programming Language" and "Design and Analysis of Algorithms". I had also the opportunity to do internship
+in the start up Doctorbaari.com as a Front-end Developer. 

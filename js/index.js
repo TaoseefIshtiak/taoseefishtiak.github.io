@@ -3,15 +3,15 @@
 $(function () {
 	$(".typed").typed({
 		strings: [
-			" Hi, this is taoseef ", 
+			" Hi, this is Taoseef ", 
 			" Research Interest: Machine Learning, Computer Vision and Data Sceince", 
-			" Team Guy", 
-			" Exploring new fields", 
-			" Life Code:", 
-			" if life == good : ", 
-			" print('Smile') ", 
-			" else : ", 
-			" print('Smile even more')"
+			" Team Guy",  
+			" One of my favourite quotes...", 
+			" If you want to go fast, ", 
+			" go Alone", 
+			" if you want to go Far,", 
+			" GO TOGETHER...."
+
 		],
 		stringsElement: null,
 		typeSpeed: 50,
