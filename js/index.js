@@ -6,7 +6,7 @@ $(function () {
 			" Hi, this is taoseef ", 
 			" Research Interest: Machine Learning, Computer Vision and Data Sceince", 
 			" Team Guy", 
-			" Explore new fields", 
+			" Exploring new fields", 
 			" Life Code:", 
 			" if life == good : ", 
 			" print('Smile') ", 
