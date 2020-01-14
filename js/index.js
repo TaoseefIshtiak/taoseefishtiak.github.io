@@ -3,11 +3,10 @@
 $(function () {
 	$(".typed").typed({
 		strings: [
-			" This is Ratul ", 
-			" Love to Code", 
-			" Work on projects", 
+			" Hi, this is taoseef ", 
+			" Research Interest: Machine Learning, Computer Vision and Data Sceince", 
+			" Team Guy", 
 			" Explore new fields", 
-			" A team guy", 
 			" Life Code:", 
 			" if life == good : ", 
 			" print('Smile') ", 
