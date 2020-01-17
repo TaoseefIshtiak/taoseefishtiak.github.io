@@ -1,5 +1,5 @@
 #main_page{
-	background-color: #212121;
+	background-color: #FFFFF0;
 	color: #CB4335;
 }
 
@@ -20,7 +20,7 @@
 
 /*Add custom cursor so it auto inherits font styles*/
 .typed::after {
-	content: '_';
+	content: '';
 	display: inline;
 	-webkit-animation: blink 0.7s infinite;
 	-moz-animation: blink 0.7s infinite;
@@ -54,7 +54,7 @@
 #about{
 	margin-top: 50px;
 	margin-bottom: 100px;
-	color: #FDFEFE;
+	color: #483D8B;
 	font-size: 22px;
 }
 
