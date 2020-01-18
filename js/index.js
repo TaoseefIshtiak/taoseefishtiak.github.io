@@ -4,7 +4,10 @@ $(function () {
 	$(".typed").typed({
 		strings: [
 			" Hi, this is Taoseef ", 
-			" Research Interest: Machine Learning, Computer Vision and Data Sceince", 
+			" My Research Interest",
+			" Machine Learning", 
+			" Computer Vision ", 
+			" Data Sceince", 
 			" Team Guy",  
 			" One of my favourite quotes...", 
 			" If you want to go fast, ", 
@@ -14,9 +17,9 @@ $(function () {
 
 		],
 		stringsElement: null,
-		typeSpeed: 50,
-		startDelay: 1500,
-		backSpeed: 40,
+		typeSpeed: 20,
+		startDelay: 1300,
+		backSpeed: 20,
 		backDelay: 500,
 		loop: true,
 

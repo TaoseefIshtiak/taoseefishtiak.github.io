@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"> -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
     <link rel="icon" type="image/png" sizes="32x32" href="img\hydra.png">
     <title>Taoseef Ishtiak</title>
@@ -20,10 +20,17 @@
 
     <section class="container">
         <div class="banner">
-            <div class="typed_wrap text-center">
+            
+
+            <div class="typed_wrap">
                 <h1>
-                    <^<span class="typed"></span>^>
+                    <span class="typed"></span>
                 </h1>
+            </div>
+
+
+            <div class="text-center">
+                <img src="img/img.png" width="246">
             </div>
         </div>
     </section>
@@ -45,8 +52,15 @@
                 <strong>Coding in Python, Java and JavaScript, Laravel, Django, Arduino, SQL, Tableau. </strong>
             </div>
 
-            <br>
-            <br>
+
+            <div class="download text-center">
+                <a href="Taoseef Ishtiak Full CV.pdf" download="Full CV"><button type="button" id="cv"
+                        class="btn btn-lg btn-outline-success animated bounceInDown"><i class="fa fa-download fa-2x"></i> My Full
+                        CV</button></a>
+                <a href="Final-resume.pdf" download="Resume"><button type="button" id="cv"
+                        class="btn btn-lg btn-outline-success animated bounceInDown"><i class="fa fa-download fa-2x"></i> My
+                        Resume</button></a>
+            </div>
 
             <h3># Short Biography</h3>
             <br>
@@ -60,36 +74,83 @@
             <h3># Selected Publications</h3>
             <br>
             <div id="text_info" class="animated lightSpeedIn">
-                <p>T. Ishtiak, S. Ahmed, M.H. Anila, S. Islam, R. Shelim, T. Farah, “Road
-                state classification of Bangladesh with convolutional neural network approach”, <i><b>(2019) WMSCI 2019 - 23rd
-                World Multi-Conference on Systemics, Cybernetics and Informatics, Proceedings, 4, pp. 129-134</b></i>
-                <a href="https://www.scopus.com/results/results.uri?numberOfFields=0&src=s&clickedLink=&edit=&editSaveSearch=&origin=searchbasic&authorTab=&affiliationTab=&advancedTab=&scint=1&menu=search&tablin=&searchterm1=Road%20State%20Classification%20of%20Bangladesh%20with%20Convolutional%20Neural%20Network%20Approach&field1=TITLE_ABS_KEY&dateType=Publication_Date_Type&yearFrom=Before%201960&yearTo=Present&loadDate=7&documenttype=All&accessTypes=All&resetFormLink=&st1=Road%20State%20Classification%20of%20Bangladesh%20with%20Convolutional%20Neural%20Network%20Approach&st2=&sot=b&sdt=b&sl=97&s=TITLE-ABS-KEY(Road%20State%20Classification%20of%20Bangladesh%20with%20Convolutional%20Neural%20Network%20Approach)&sid=9cd0053288aaa8eb7477505927a18aa3&searchId=9cd0053288aaa8eb7477505927a18aa3&txGid=cb7fa51436c0bf5c405359793c9b80a0&sort=plf-f&originationType=b&rr=&fbclid=IwAR0dsS-nQ80FEkTwTlPdzfP5zu6AQMvDVLR8zKM2RQiUy1lEqVqYyOAmsRI">pdf</a>
-                <p>T. Ishtiak, S. Ahmed, M. H. Anila and T. Farah, "A Convolutional Neural Network
-                Approach for Road Anomalies Detection in Bangladesh with Image Thresholding“, <i><b>2019 Third World
-                Conference on Smart Trends in Systems Security and Sustainability (WorldS4), London, United Kingdom,
-                2019, pp. 376-382. doi: 10.1109/WorldS4.2019.8903936</b></i>
-                <a href="https://ieeexplore.ieee.org/document/8903936">pdf</a>
-                <p>S. Rezwan et al., "A Minimalist Model of IoT based Sensor System for Sewage Treatment
-                Plant Monitoring“, <i><b>2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication
-                Conference (IEMCON), Vancouver, BC, Canada, 2019, pp. 0939-0945. doi: 10.1109/IEMCON.2019.8936182</b></i>
-                <a href="https://ieeexplore.ieee.org/document/8936182">pdf</a>
-                <p>T. Ishtiak, R. M. Orpon, N. Mashnoor, M. Ahmed and M. A. Nazim, "An advanced
-                application to decrease household power consumption and save energy detecting the weather condition,"
-                 <i><b>2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON),
-                Vancouver, BC, 2017, pp. 622-627. doi: 10.1109/IEMCON.2017.8117168</b></i>
-                <a href="https://ieeexplore.ieee.org/document/8117168">pdf</a>
+                <div class="card">
+                    <div class="card-body">
+                        <p class="card-text">T. Ishtiak, S. Ahmed, M.H. Anila, S. Islam, R. Shelim, T. Farah, “Road
+                        state classification of Bangladesh with convolutional neural network approach”, <i><b>(2019) WMSCI 2019 - 23rd
+                                World Multi-Conference on Systemics, Cybernetics and Informatics, Proceedings, 4, pp. 129-134</b></p>
+                        <a href="https://www.scopus.com/results/results.uri?numberOfFields=0&src=s&clickedLink=&edit=&editSaveSearch=&origin=searchbasic&authorTab=&affiliationTab=&advancedTab=&scint=1&menu=search&tablin=&searchterm1=Road%20State%20Classification%20of%20Bangladesh%20with%20Convolutional%20Neural%20Network%20Approach&field1=TITLE_ABS_KEY&dateType=Publication_Date_Type&yearFrom=Before%201960&yearTo=Present&loadDate=7&documenttype=All&accessTypes=All&resetFormLink=&st1=Road%20State%20Classification%20of%20Bangladesh%20with%20Convolutional%20Neural%20Network%20Approach&st2=&sot=b&sdt=b&sl=97&s=TITLE-ABS-KEY(Road%20State%20Classification%20of%20Bangladesh%20with%20Convolutional%20Neural%20Network%20Approach)&sid=9cd0053288aaa8eb7477505927a18aa3&searchId=9cd0053288aaa8eb7477505927a18aa3&txGid=cb7fa51436c0bf5c405359793c9b80a0&sort=plf-f&originationType=b&rr=&fbclid=IwAR0dsS-nQ80FEkTwTlPdzfP5zu6AQMvDVLR8zKM2RQiUy1lEqVqYyOAmsRI" class="card-link">View</a>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <div class="card-body">
+                        <p class="card-text">T. Ishtiak, S. Ahmed, M. H. Anila and T. Farah, "A Convolutional Neural Network
+                        Approach for Road Anomalies Detection in Bangladesh with Image Thresholding“, <i><b>2019 Third World
+                                Conference on Smart Trends in Systems Security and Sustainability (WorldS4), London, United Kingdom,
+                                2019, pp. 376-382. doi: 10.1109/WorldS4.2019.8903936</b>
+                        </p>
+                        <a href="https://ieeexplore.ieee.org/document/8903936"
+                            class="card-link">View</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-body">
+                        <p class="card-text">S. Rezwan et al., "A Minimalist Model of IoT based Sensor System for Sewage Treatment
+                        Plant Monitoring“, <i><b>2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication
+                                Conference (IEMCON), Vancouver, BC, Canada, 2019, pp. 0939-0945. doi: 10.1109/IEMCON.2019.8936182</b>
+                        </p>
+                        <a href="https://ieeexplore.ieee.org/document/8936182"
+                            class="card-link">View</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-body">
+                        <p class="card-text">T. Ishtiak, R. M. Orpon, N. Mashnoor, M. Ahmed and M. A. Nazim, "An advanced
+                        application to decrease household power consumption and save energy detecting the weather condition,"
+                        <i><b>2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON),
+                                Vancouver, BC, 2017, pp. 622-627. doi: 10.1109/IEMCON.2017.8117168</b>
+                        </p>
+                        <a href="https://ieeexplore.ieee.org/document/8117168"
+                            class="card-link">View</a>
+                    </div>
+                </div>
             </div>
 
+        </div>
+    </section>
+
+    <section id="project" class="container">
+        <h3># About Me</h3>
+        <br>
+        <div class="row">
+
+            <!-- project card code start -->
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="img/demo.jpg" class="card-img-top" alt="...">
+                    <div class="card-body text-center">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                            card's
+                            content.</p>
+                            <button type="button" class="btn btn-primary" style="width: 150px;">View</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- project card code end -->
+
+            
         </div>
     </section>
 
     <section id="social" class="container">
         <h3># Get in Touch</h3>
         <div>
-            <center> <a href="Taoseef Ishtiak Full CV.pdf" download="Full CV"><button type="button" id="cv" class="btn btn-lg btn-outline-success animated bounceInDown"><i
-                            class="fa fa-download fa-2x"></i> My Full CV</button></a> </center>
-            <center> <a href="Final-resume.pdf" download="Resume"><button type="button" id="cv" class="btn btn-lg btn-outline-success animated bounceInDown"><i
-                            class="fa fa-download fa-2x"></i> My Resume</button></a> </center>
+
+            
 
             <div class="text-center">
                 <a href="https://www.github.com/TaoseefIshtiak" target="_blank"><button type="button" id="button" class="btn btn-lg btn-secondary animated swing"><i class="fab fa-github fa-2x"></i></button></a>
@@ -105,18 +166,6 @@
     </section>
 
     
-
-
-
-
-
-
-
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
 
 
 
