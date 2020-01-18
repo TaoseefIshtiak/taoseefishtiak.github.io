@@ -8,7 +8,7 @@ $(function () {
 			" Machine Learning", 
 			" Computer Vision ", 
 			" Data Sceince", 
-			" Team Guy",  
+			" I am a Team Guy and Love to collaborate",  
 			" One of my favourite quotes...", 
 			" If you want to go fast, ", 
 			" go Alone;", 
