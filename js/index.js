@@ -4,7 +4,7 @@ $(function () {
 	$(".typed").typed({
 		strings: [
 			" Hi, this is Taoseef ", 
-			" My Research Interest",
+			" My Research Interest...",
 			" Machine Learning", 
 			" Computer Vision ", 
 			" Data Sceince", 
