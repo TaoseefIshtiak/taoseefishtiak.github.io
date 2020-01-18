@@ -8,7 +8,7 @@ $(function () {
 			" Team Guy",  
 			" One of my favourite quotes...", 
 			" If you want to go fast, ", 
-			" go Alone", 
+			" go Alone;", 
 			" if you want to go Far,", 
 			" GO TOGETHER...."
 

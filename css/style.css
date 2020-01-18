@@ -19,8 +19,8 @@
 }
 
 /*Add custom cursor so it auto inherits font styles*/
-.typed::after {
-	content: '';
+.typed::before {
+	content: '(base) taoseef>';
 	display: inline;
 	-webkit-animation: blink 0.7s infinite;
 	-moz-animation: blink 0.7s infinite;
