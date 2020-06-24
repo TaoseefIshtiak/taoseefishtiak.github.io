@@ -10,7 +10,7 @@ $(document).ready(function () {
         }, 1000);
     });
 
-    const API = "https://api.github.com/users/ratul16/repos";
+    const API = "https://api.github.com/users/TaoseefIshtiak/repos";
 
     //console.log(API);
 
