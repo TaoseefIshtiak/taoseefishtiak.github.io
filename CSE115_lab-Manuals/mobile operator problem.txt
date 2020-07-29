@@ -1,0 +1,12 @@
+Suppose you are a programmer in a mobile operator company and your boss has given you a task to write a program in C that displays all the bundle the company offers. The various kinds of offers include:
+1. SMS Offer: 50 sms: 5.99 taka, 100 sms: 8.02 taka, 300 sms: 15.00 taka; validity 7 days 
+2. Talk-Time Offer:  50 minutes: 31.95, 300 minutes: 179.89, 1000 minutes: 599.63; validity 15 days 
+3. Internet Offer: 100 MB: 42.70 taka, 250 MB: 52.37 taka, 1.5 GB: 93.95 taka; validity 30 days 
+4. Monthly Plan Offer: 500 MB, 200 SMS, 100 minutes Talk-Time: 293.47 taka; validity 30 days 
+5. Recharge Offer: 250 MB, 20 SMS: on 29 taka recharge; validity 21 days
+6. Star Customer Offer: 3 GB, 100 minutes, 50 sms: 120 taka; validity 45 days
+7. Gold Customer Offer: 5GB, 150 minutes, 100 sms: 130 taka; validity 45 days
+8. Platinum Customer Offer: 9 GB, 200 minutes, 150 sms: 150 taka; validity 45 days
+9. Pay as you Go: .60 taka per second; validity till balance remains
+
+Executing the program you will at first, display the above options to the user and ask the user to choose an offer with respective order of inputs matching above from 1 to 9. After user chooses an option the program will output which option user had chosen and the price of the offer. After that, your program should successfully return.
