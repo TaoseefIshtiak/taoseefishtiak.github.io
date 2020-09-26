@@ -1,1 +1,1 @@
-Please commit the simulation ckt files
+Please remove the image files and commit the simulation ckt files

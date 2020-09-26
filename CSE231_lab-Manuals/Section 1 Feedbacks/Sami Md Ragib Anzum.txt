@@ -1,3 +1,6 @@
 Week 1 >> Task 3 not done properly
 Week 2 >> Ckt are not implemented properly
-Week 3 >> Files not found
+Week 3 >> ckt works fine; delayed submission
+Week 4 >> discussion missing in report
+Week 5 >> discussion missing in report
+

@@ -1,3 +1,5 @@
 Week 1 >> Ckt works fine
 Week 2 >> Files not found
 Week 3 >> One state fails
+Week 3 >> ckt works fine, report missing
+Week 3 >> labeling not done properly, report missing

@@ -1,5 +1,11 @@
 Week 1 >> Files not found
 Week 2 >> Files not found
 Week 3 >> CKT is not implemented properly
+Week 4 >> CKT is not working, discussion missing in report
+Week 5 >> 4 bit adder CKT is not working, BCD access 3 ckt not found, discussion missing in report
+Week 6 >> mux ckt is not working, decoder ckt not found, discussion missing in report
+Week 7 >> ckt works fine
 
-Fix the file extensions inside Lab 03 folder
+
+
+Repo not organized

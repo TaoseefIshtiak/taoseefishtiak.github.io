@@ -1,5 +1,11 @@
 Week 1 >> Ckt is not implemented properly. Similarities found with other person's work. Be careful about it next time
 Week 2 >> Task 3 not found
 Week 3 >> Files not found
+Week 4 >> ckt works fine, discussion missing in report
+Week 5 >> ckt works fine, discussion missing in report
+Week 6 >> decoder is not implemented as expected, discussion missing in report
+Week 7 >> ckt works fine, discussion missing in report
+Week 8 >> states do not change, discussion missing in report
+
 
 

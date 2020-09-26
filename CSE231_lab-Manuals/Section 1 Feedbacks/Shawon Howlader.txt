@@ -1,5 +1,11 @@
 Week 1 >> Task 3 not found
 Week 2 >> Reconstruct the ckt
 Week 3 >> Ckt not implemented properly
+Week 4 >> Ckt not implemented properly
+Week 5 >> 4 bit adder subtractor has issues
+Week 6 >> mux implementation not found
+Week 8 >> output has issues
+
+
 
 Organize the files in week-wise designated folders

@@ -1,0 +1,4 @@
+Week 1 >> Files not found
+Week 2 >> Ckt works fine
+Week 3 >> test case fails for 010 input
+Organize your files in week-wise deginated folders
