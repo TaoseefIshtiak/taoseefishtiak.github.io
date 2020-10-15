@@ -1,1 +1,32 @@
-Repository is empty!!
+Midterm:
+#include<iostream>
+using namespace std;
+ 
+ struct Math
+{
+    int number;
+    float remainder;
+    int count;
+};
+int main()
+{
+	Math m1;
+    int inp, number, remainder;
+ 
+    cout << "Enter the number : ";
+    cin >> inpu;
+    m1.count=0;
+    do{
+    	cin >> m1.number;
+    	m1.remainder = m1.number % 2;
+	    if (m1.remainder == 0)
+	        cout << m1.number << " is an even integer " << endl;
+	    else
+	        cout << m1.number << " is an odd integer " << endl;
+	        inp--;
+	        m1.count++;
+ 	}while(inp!=0)
+	cout <<"total " << m1.count << "  inputs have been given" << endl;
+
+    return 0;
+}
