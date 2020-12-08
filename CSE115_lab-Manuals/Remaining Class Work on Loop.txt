@@ -1,0 +1,6 @@
+Compute the summation of the following series
+sum = 1 + 2! + 3! + 4! + .... +n!  
+
+Write a C code to find the factorial of any given integer
+input : n  or 5
+output: n!   120
