@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Tanjila Farah</LastAuthor>
+  <LastSaved>2021-01-27T04:50:54Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9060</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Time"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="NSU - SIS">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="12" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="168"/>
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="127.19999999999999"/>
+   <Column ss:AutoFitWidth="0" ss:Width="76.8"/>
+   <Column ss:AutoFitWidth="0" ss:Width="101.4" ss:Span="1"/>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">North South University -Fall 2020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">No.</Data></Cell>
+    <Cell><Data ss:Type="String">Student ID</Data></Cell>
+    <Cell><Data ss:Type="String">Name</Data></Cell>
+    <Cell><Data ss:Type="String">Registered  ?</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">project implementation 5</Data></Cell>
+    <Cell><Data ss:Type="String">completion 5</Data></Cell>
+    <Cell><Data ss:Type="String">question- answer 5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">  1421310042</Data></Cell>
+    <Cell><Data ss:Type="String">Gigawashu Das  </Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">  1520584642</Data></Cell>
+    <Cell><Data ss:Type="String">Raqibuzzaman Moon  </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">  1521285042</Data></Cell>
+    <Cell><Data ss:Type="String">Mohammed Taufiqur Rahman  </Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5</Data></Cell>
+    <Cell><Data ss:Type="String">MIPS doesn't work, Alu works only</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">4</Data></Cell>
+    <Cell><Data ss:Type="String">  1620932642</Data></Cell>
+    <Cell><Data ss:Type="String">Iqbal Bahar Prince  </Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">would present </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">  1711072642</Data></Cell>
+    <Cell><Data ss:Type="String">Sumaiya Chowdhury  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">only r type instrution works properly</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="String">6</Data></Cell>
+    <Cell><Data ss:Type="String">  1731902042</Data></Cell>
+    <Cell><Data ss:Type="String">Muhammad Tahmidur Rashid  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7</Data></Cell>
+    <Cell><Data ss:Type="String">  1811386042</Data></Cell>
+    <Cell><Data ss:Type="String">Ahadul Islam  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"/>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">MIPS doesn't work</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">8</Data></Cell>
+    <Cell><Data ss:Type="String">  1811648642</Data></Cell>
+    <Cell><Data ss:Type="String">Nafis Tanjim  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s66"><Data ss:Type="DateTime">1899-12-31T09:30:00.000</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5</Data></Cell>
+    <Cell><Data ss:Type="String">MIPS doesn't work</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9</Data></Cell>
+    <Cell><Data ss:Type="String">  1911563642</Data></Cell>
+    <Cell><Data ss:Type="String">Samya Sunibir Das  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"/>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">MIPS doesn't work, but ALU work</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="String">  1911742042</Data></Cell>
+    <Cell><Data ss:Type="String">Nazmul Hasan  </Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s64"/>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">only r type instruction works properly </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
